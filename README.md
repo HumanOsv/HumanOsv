@@ -1,28 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Osvaldo 👋</h1>
+<p align="center">
+  Computational Chemistry Researcher | Molecular Modeling | Drug Design | HPC
+</p>
 
-<!--
-**HumanOsv/HumanOsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HumanOsv&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumanOsv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HumanOsv&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## About me
 
+- Computational chemistry researcher.
+- Interested in molecular dynamics, docking, quantum chemistry, and scientific computing.
+- I work mainly with Python, Linux, Bash, HPC, VMD, NAMD, Gaussian, ORCA, and AutoDock Vina.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HumanOsv&show_icons=true&theme=radical)
+## Repository
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HumanOsv&layout=compact)
-
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=HumanOsv&theme=dark)
+Profile repository: [HumanOsv/HumanOsv](https://github.com/HumanOsv/HumanOsv)
