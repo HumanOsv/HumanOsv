@@ -17,6 +17,7 @@
 I am a computational chemistry researcher interested in molecular modeling, molecular dynamics simulations, drug design, quantum chemistry, and high-performance computing.
 
 - Molecular dynamics simulations and trajectory analysis
+- Machine Learning and Artificial Intelligence applied to molecular engineering
 - Molecular docking and structure-based drug design
 - Quantum chemistry and electronic-structure calculations
 - Binding affinity calculations: MM-PBSA and MM-GBSA
